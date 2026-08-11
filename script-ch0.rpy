@@ -52,49 +52,49 @@ translate español ch0_main_cf958be9_1:
 translate español ch0_main_d5b6fac2_1:
 
     # s "I overslept again!"
-    s "I overslept again!"
+    s "¡Me volví a dormir!"
 
 # game/script-ch0.rpy:23
 translate español ch0_main_7fa78c9d_1:
 
     # s "But I caught you this time!"
-    s "But I caught you this time!"
+    s "¡Pero esta vez te he alcanzado!"
 
 # game/script-ch0.rpy:24
 translate español ch0_main_164efad7_1:
 
     # mc "Maybe, but only because I decided to stop and wait for you."
-    mc "Maybe, but only because I decided to stop and wait for you."
+    mc "Quizá, pero solo porque he decidido esperarte"
 
 # game/script-ch0.rpy:26
 translate español ch0_main_426a9522_1:
 
     # s 5c "Eeehhhhh, you say that like you were thinking about ignoring me!"
-    s 5c "Eeehhhhh, you say that like you were thinking about ignoring me!"
+    s 5c "Ehhhhhhh, ¡Lo dices como si estuvieras pensando en ignorarme!"
 
 # game/script-ch0.rpy:27
 translate español ch0_main_15216994_1:
 
     # s "That's mean, [player]!"
-    s "That's mean, [player]!"
+    s "Eso no está bien, [player]!"
 
 # game/script-ch0.rpy:28
 translate español ch0_main_b13a945b_1:
 
     # mc "Well, if people stare at you for acting weird then I don't want them to think we're a couple or something."
-    mc "Well, if people stare at you for acting weird then I don't want them to think we're a couple or something."
+    mc "Bueno, si la gente se queda mirándote por ser rara entonces no quiero que piensen que somos pareja o algo así."
 
 # game/script-ch0.rpy:30
 translate español ch0_main_5d016585_1:
 
     # s 1a "Fine, fine."
-    s 1a "Fine, fine."
+    s 1a "Vale, vale"
 
 # game/script-ch0.rpy:31
 translate español ch0_main_636f00f3_1:
 
     # s "But you did wait for me, after all."
-    s "But you did wait for me, after all."
+    s "Pero, al final, si que me has esperado"
 
 # game/script-ch0.rpy:32
 translate español ch0_main_2640e984_1:

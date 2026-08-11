@@ -4,7 +4,7 @@ translate español strings:
 
     # 00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Monday"
+    new "{#weekday}"Lunes"
 
     # 00action_file.rpy:26
     old "{#weekday}Tuesday"
